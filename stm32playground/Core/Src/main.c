@@ -66,7 +66,8 @@ static void MX_USART2_UART_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-  /*Chris added 2023*/
+  /* Chris added 2023 */
+	/* Another comment */
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
